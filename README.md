@@ -25,6 +25,7 @@ An interactive 2D city simulation where the player acts in *dual modes* (taxi an
 
             https://github.com/moanaXds/RushHour-OOP
             https://github.com/moanaXds/CookieCrush-WordGame
+            https://github.com/moanaXds/Xonix-Rush-2D-Game
 
 ### 🔹 [Dry Run – C++ Concepts Collection]
 A curated collection of C++ dry runs for learning and practice. Each topic includes code + step-by-step logic explanation.  
