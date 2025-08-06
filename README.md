@@ -62,8 +62,6 @@ Communication
 
 ## 🔗 Connect With Me
 
-Here are the corrected **clickable links** for your information:
-
 ---
 
 🔗 **LinkedIn:**  
@@ -79,8 +77,6 @@ Here are the corrected **clickable links** for your information:
 [https://github.com/moanaXds](https://github.com/moanaXds)
 
 ---
-
-Let me know if you'd like these formatted for a website or resume!
 
 <!--
 **moanaXds/moanaXds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
