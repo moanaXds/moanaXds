@@ -27,7 +27,7 @@ Communication
 ---
 
 🔗 **LinkedIn:**  
-[https://www.linkedin.com/in/moanaxds/](https://www.linkedin.com/in/moanaxds/)
+[https://www.linkedin.com/in/moanaXds/](https://www.linkedin.com/in/moanaXds/)
 
 📧 **Email:**  
 [i242593@isb.nu.edu.pk](mailto:i242593@isb.nu.edu.pk)
