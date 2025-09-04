@@ -1,8 +1,7 @@
 ## Hi there 👋, I'm Muanna Hamid
 
 🎓 Data Science student at FAST NUCES Islamabad  
-💻 C++ Game Developer | Python Programer | Simulation Designer | Dry Run Expert  
----
+
 ## 🛠️ Skills & Tools:
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
