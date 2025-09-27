@@ -9,6 +9,8 @@
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=asm&logoColor=white)
 ![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
 ![GLUT](https://img.shields.io/badge/GLUT-000000?style=for-the-badge)
+![Vectors](https://img.shields.io/badge/Vectors-4B0082?style=for-the-badge&logo=academia&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-FF4500?style=for-the-badge&logo=robotframework&logoColor=white) 
 
