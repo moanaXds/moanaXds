@@ -12,10 +12,6 @@
 
 <!-- PROFILE VIEWS + SOCIALS -->
 <p>
-  <a href="https://github.com/moanaXds">
-    <img src="https://komarev.com/ghpvc/?username=moanaXds&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="profile views"/>
-  </a>
-  &nbsp;
   <a href="https://www.kaggle.com/moanahamid">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
   </a>
@@ -116,25 +112,3 @@ muanna = {
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=moanaXds&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-<!-- SNAKE CONTRIBUTION GRAPH -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moanaXds/moanaXds/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moanaXds/moanaXds/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/moanaXds/moanaXds/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
