@@ -12,12 +12,12 @@
 
 <!-- PROFILE VIEWS + SOCIALS -->
 <p>
-  <a href="https://www.kaggle.com/moanahamid">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
-  </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/muanna-hamid">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/moanahamid">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.instagram.com/moana_hamid">
@@ -27,7 +27,6 @@
 
 </div>
 
----
 
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
