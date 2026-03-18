@@ -132,23 +132,3 @@ class Muanna:
 <br/>
 
 <div align="center">
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=moanaXds&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<div align="center">
-
-*"The best engineers don't just write code — they ship products."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a0a2e,100:0a0a0f&height=100&section=footer" width="100%"/>
-
-</div>
