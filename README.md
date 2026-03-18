@@ -1,62 +1,64 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muanna%20Hamid&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Builder%20%7C%20Systems%20Thinker&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
-
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+AI+tools+that+actually+ship.;Data+Science+%40+FAST+NUCES+Islamabad.;C%2B%2B+%7C+Python+%7C+ML+%7C+LLMs+%7C+SQL.;I+don't+just+study+AI+%E2%80%94+I+deploy+it." alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- PROFILE VIEWS + SOCIALS -->
-<p>
-  <a href="https://www.linkedin.com/in/muanna-hamid">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.kaggle.com/moanahamid">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/moana_hamid">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:0f0a1e,70:1a0a2e,100:0d0d1a&height=220&section=header&text=Muanna%20Hamid&fontSize=65&fontColor=e2d9f3&fontAlignY=40&desc=Data%20Scientist%20·%20AI%20Builder%20·%20Systems%20Thinker&descAlignY=62&descColor=7c6fcd&animation=scaleIn&stroke=7c6fcd&strokeWidth=1" width="100%"/>
 
 </div>
 
+<div align="center">
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=9D8EE0&center=true&vCenter=true&width=650&lines=Building+AI+tools+that+actually+ship+%F0%9F%9A%80;Data+Science+%40+FAST+NUCES+Islamabad;C%2B%2B+%7C+Python+%7C+ML+%7C+LLMs+%7C+SQL;I+don't+just+study+AI+%E2%80%94+I+deploy+it." alt="Typing SVG" />
+</a>
 
-## ⚡ About Me
+</div>
 
-```python
-muanna = {
-    "role"       : "Data Science Student @ FAST NUCES Islamabad",
-    "focus"      : ["AI tools", "ML pipelines", "Systems design", "Monetizable products"],
-    "currently"  : "Building FolioFlex — a Gen Z portfolio builder",
-    "languages"  : ["Python", "C++", "SQL", "Assembly"],
-    "stack"      : ["LLMs", "Scikit-learn", "Pandas", "Power BI", "SFML", "OpenGL"],
-    "mindset"    : "Ship fast. Learn in public. Build what earns.",
-}
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🧠 Tech Stack & Skills
+<br/>
 
 <div align="center">
 
-### 🔤 Languages
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muanna-hamid)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/moanahamid)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moana_hamid)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moanaXds)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## `$ whoami`
+
+```python
+class Muanna:
+    role       = "Data Science Student @ FAST NUCES Islamabad"
+    focus      = ["AI tools", "ML pipelines", "Systems design", "Monetizable products"]
+    building   = "FolioFlex — Gen Z portfolio builder with dark-mode & motion-forward UI"
+    languages  = ["Python", "C++", "SQL", "Assembly"]
+    stack      = ["LLMs", "Scikit-learn", "Pandas", "Power BI", "SFML", "OpenGL"]
+    mindset    = "Ship fast. Learn in public. Build what earns."
+    status     = "Open to internships & collabs 👾"
+```
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🧠 Tech Stack
+
+<div align="center">
+
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logoColor=white)
 
-### 🤖 AI / ML
+### AI / ML
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-FF4500?style=for-the-badge&logo=robotframework&logoColor=white)
@@ -64,50 +66,89 @@ muanna = {
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 📊 Data & Visualization
+### Data & Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
-### 🎮 Systems & Graphics
+### Systems & Graphics
 ![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
 
 ## 🛠️ What I Build
 
 <div align="center">
 
 | 🤖 AI Tools & Agents | 📊 Data Science | 🎮 C++ Systems | 🌐 Dev Tools |
-|:---:|:---:|:---:|:---:|
-| LLM-powered pipelines | ML dashboards | 2D games | Portfolio builders |
-| Chatbots & automation | EDA & visualization | Simulations | Web-based utilities |
+|:---|:---|:---|:---|
+| LLM-powered pipelines | ML dashboards | 2D games (SFML/OpenGL) | FolioFlex portfolio builder |
+| Chatbots & automation | EDA & visualization | Simulations & path-finding | Web-based utilities |
 | Deployed AI products | Predictive models | OpenGL rendering | API integrations |
 
 </div>
 
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
 
 ## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moanaXds&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moanaXds&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=ffffff"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moanaXds&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=ffffff" width="60%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moanaXds&bg_color=0d0d0d&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="90%"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=moanaXds&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=9d8ee0&icon_color=9d8ee0&text_color=c9c3e0&ring_color=7c6fcd"/>
+&nbsp;&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moanaXds&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=9d8ee0&text_color=c9c3e0"/>
 
 </div>
 
+<div align="center">
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=moanaXds&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=9d8ee0&ring=7c6fcd&fire=ff6b6b&currStreakLabel=c9c3e0&sideLabels=c9c3e0&dates=888888" width="55%"/>
+
+</div>
+
+<div align="center">
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moanaXds&bg_color=0d0d0d&color=9d8ee0&line=7c6fcd&point=e2d9f3&area=true&area_color=1a0a2e&hide_border=true" width="90%"/>
+</div>
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=moanaXds&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+*"The best engineers don't just write code — they ship products."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a0a2e,100:0a0a0f&height=100&section=footer" width="100%"/>
+
+</div>
