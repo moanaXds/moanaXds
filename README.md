@@ -1,8 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:0f0a1e,70:1a0a2e,100:0d0d1a&height=220&section=header&text=Muanna%20Hamid&fontSize=65&fontColor=e2d9f3&fontAlignY=40&desc=Data%20Scientist%20·%20AI%20Builder%20·%20Systems%20Thinker&descAlignY=62&descColor=7c6fcd&animation=scaleIn&stroke=7c6fcd&strokeWidth=1" width="100%"/>
-
-</div>
 <!-- ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muanna%20Hamid&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Builder%20%7C%20Systems%20Thinker&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
