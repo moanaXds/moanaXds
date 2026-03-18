@@ -3,31 +3,33 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:0f0a1e,70:1a0a2e,100:0d0d1a&height=220&section=header&text=Muanna%20Hamid&fontSize=65&fontColor=e2d9f3&fontAlignY=40&desc=Data%20Scientist%20·%20AI%20Builder%20·%20Systems%20Thinker&descAlignY=62&descColor=7c6fcd&animation=scaleIn&stroke=7c6fcd&strokeWidth=1" width="100%"/>
 
 </div>
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muanna%20Hamid&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Builder%20%7C%20Systems%20Thinker&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
-<div align="center">
-
+<!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=9D8EE0&center=true&vCenter=true&width=650&lines=Building+AI+tools+that+actually+ship+%F0%9F%9A%80;Data+Science+%40+FAST+NUCES+Islamabad;C%2B%2B+%7C+Python+%7C+ML+%7C+LLMs+%7C+SQL;I+don't+just+study+AI+%E2%80%94+I+deploy+it." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+AI+tools+that+actually+ship.;Data+Science+%40+FAST+NUCES+Islamabad.;C%2B%2B+%7C+Python+%7C+ML+%7C+LLMs+%7C+SQL.;I+don't+just+study+AI+%E2%80%94+I+deploy+it." alt="Typing SVG" />
 </a>
 
+<br/>
+
+<!-- PROFILE VIEWS + SOCIALS -->
+<p>
+  <a href="https://www.linkedin.com/in/muanna-hamid">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/moanahamid">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/moana_hamid">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
 </div>
 
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muanna-hamid)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/moanahamid)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moana_hamid)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moanaXds)
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
 
 ## `$ whoami`
 
