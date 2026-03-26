@@ -75,6 +75,14 @@ class Muanna:
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+### Development & Deployment
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![AI Studio](https://img.shields.io/badge/AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Stitch](https://img.shields.io/badge/Stitch-E8452D?style=for-the-badge&logo=talend&logoColor=white)
+![Anti--Gravity](https://img.shields.io/badge/Anti--Gravity-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)
+
 </div>
 
 <br/>
@@ -105,9 +113,31 @@ class Muanna:
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=moanaXds&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=9d8ee0&icon_color=9d8ee0&text_color=c9c3e0&ring_color=7c6fcd"/>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=moanaXds&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=9d8ee0&icon_color=9d8ee0&text_color=c9c3e0&ring_color=7c6fcd"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    height="175em"
+    src="https://github-readme-stats.vercel.app/api?username=moanaXds&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=9d8ee0&icon_color=9d8ee0&text_color=c9c3e0&ring_color=7c6fcd"
+    onerror="this.style.display='none'"
+    alt="Muanna's GitHub Stats"
+  />
+</picture>
 &nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moanaXds&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=9d8ee0&text_color=c9c3e0"/>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=moanaXds&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=9d8ee0&text_color=c9c3e0"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    height="175em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=moanaXds&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=9d8ee0&text_color=c9c3e0"
+    onerror="this.style.display='none'"
+    alt="Top Languages"
+  />
+</picture>
 
 </div>
 
@@ -115,13 +145,19 @@ class Muanna:
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=moanaXds&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=9d8ee0&ring=7c6fcd&fire=ff6b6b&currStreakLabel=c9c3e0&sideLabels=c9c3e0&dates=888888" width="55%"/>
+<picture>
+  <source
+    srcset="https://nirzak-streak-stats.vercel.app/?user=moanaXds&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=9d8ee0&ring=7c6fcd&fire=ff6b6b&currStreakLabel=c9c3e0&sideLabels=c9c3e0&dates=888888"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=moanaXds&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=9d8ee0&ring=7c6fcd&fire=ff6b6b&currStreakLabel=c9c3e0&sideLabels=c9c3e0&dates=888888"
+    width="55%"
+    onerror="this.style.display='none'"
+    alt="GitHub Streak"
+  />
+</picture>
 
-</div>
-
-<div align="center">
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moanaXds&bg_color=0d0d0d&color=9d8ee0&line=7c6fcd&point=e2d9f3&area=true&area_color=1a0a2e&hide_border=true" width="90%"/>
 </div>
 
 <br/>
@@ -131,3 +167,8 @@ class Muanna:
 <br/>
 
 <div align="center">
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
+
+</div>
