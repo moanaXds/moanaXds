@@ -74,6 +74,7 @@ class Muanna:
 ![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logoColor=white)
 
 ### Development & Deployment
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -113,52 +114,21 @@ class Muanna:
 
 <div align="center">
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=moanaXds&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=9d8ee0&icon_color=9d8ee0&text_color=c9c3e0&ring_color=7c6fcd"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    height="175em"
-    src="https://github-readme-stats.vercel.app/api?username=moanaXds&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=9d8ee0&icon_color=9d8ee0&text_color=c9c3e0&ring_color=7c6fcd"
-    onerror="this.style.display='none'"
-    alt="Muanna's GitHub Stats"
-  />
-</picture>
+<img
+  height="175em"
+  src="https://github-readme-stats.vercel.app/api?username=moanaXds&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=9d8ee0&icon_color=9d8ee0&text_color=c9c3e0&ring_color=7c6fcd"
+  alt="Muanna's GitHub Stats"
+/>
 &nbsp;&nbsp;
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=moanaXds&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=9d8ee0&text_color=c9c3e0"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    height="175em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=moanaXds&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=9d8ee0&text_color=c9c3e0"
-    onerror="this.style.display='none'"
-    alt="Top Languages"
-  />
-</picture>
+<img
+  height="175em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=moanaXds&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=9d8ee0&text_color=c9c3e0"
+  alt="Top Languages"
+/>
 
 </div>
 
-<div align="center">
 
-<br/>
-
-<picture>
-  <source
-    srcset="https://nirzak-streak-stats.vercel.app/?user=moanaXds&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=9d8ee0&ring=7c6fcd&fire=ff6b6b&currStreakLabel=c9c3e0&sideLabels=c9c3e0&dates=888888"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    src="https://nirzak-streak-stats.vercel.app/?user=moanaXds&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=9d8ee0&ring=7c6fcd&fire=ff6b6b&currStreakLabel=c9c3e0&sideLabels=c9c3e0&dates=888888"
-    width="55%"
-    onerror="this.style.display='none'"
-    alt="GitHub Streak"
-  />
-</picture>
-
-</div>
 
 <br/>
 
