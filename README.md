@@ -34,7 +34,7 @@
 class Muanna:
     role       = "Data Science Student @ FAST NUCES Islamabad"
     focus      = ["AI tools", "ML pipelines", "Systems design", "Monetizable products"]
-    building   = "FolioFlex — Gen Z portfolio builder with dark-mode & motion-forward UI"
+    building   = "FolioFlex, XectraAI, serenovae"
     languages  = ["Python", "C++", "SQL", "Assembly"]
     stack      = ["LLMs", "Scikit-learn", "Pandas", "Power BI", "SFML", "OpenGL"]
     mindset    = "Ship fast. Learn in public. Build what earns."
