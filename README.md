@@ -110,26 +110,6 @@ class Muanna:
 
 <br/>
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img
-  height="175em"
-  src="https://github-readme-stats.vercel.app/api?username=moanaXds&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=9d8ee0&icon_color=9d8ee0&text_color=c9c3e0&ring_color=7c6fcd"
-  alt="Muanna's GitHub Stats"
-/>
-&nbsp;&nbsp;
-<img
-  height="175em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=moanaXds&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=9d8ee0&text_color=c9c3e0"
-  alt="Top Languages"
-/>
-
-</div>
-
-
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
